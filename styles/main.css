@@ -1,0 +1,20 @@
+html {
+    background-color: #6eb0de
+}
+
+body {
+    background-color: #f5ffe6;
+    border: 3px solid #93a36c;
+    padding: 30px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+p, li {
+    color: gray;
+    font-family: 'Kameron', serif;
+}
+
+h1 {
+    font-family: 'Sansita', sans-serif;
+}
